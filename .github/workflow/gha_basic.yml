@@ -31,5 +31,5 @@ jobs:
           file: ./Dockerfile_prod
           push: true
           tags: |
-            cz4pek/pwcho:ghlab10base
+            cz4pek/pwcho:ghlab12base
           
